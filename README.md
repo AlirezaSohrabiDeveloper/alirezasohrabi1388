@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on a project with a deep neural network system<br>I am a sports programmer
+I'm currently working on a project with a deep neural network system<br>I am a sports programmer
 
 
 ## 🌐 Socials:
